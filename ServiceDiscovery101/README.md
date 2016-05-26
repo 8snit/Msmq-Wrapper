@@ -1,4 +1,4 @@
-###Q/A session
+###Q&A session
 
 ####Service Discovery Patterns (slide 10)
 
