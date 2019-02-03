@@ -1,3 +1,3 @@
-# presentations
+# Presentations
 
-my public presentations
+see see http://8snit.github.io/#publications
