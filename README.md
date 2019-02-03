@@ -1,1 +1,1 @@
-http://8snit.github.io/#publications
+https://8snit.github.io/#publications
